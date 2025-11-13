@@ -23,10 +23,11 @@ export const listTools = [
 ];
 
 
-const Video1 = `${baseURL}assets/project/proyek1.mp4`;
-const Video2 = `${baseURL}assets/project/proyek2.mp4`;
-const Video3 = `${baseURL}assets/project/proyek3.mp4`;
-const Video4 = `${baseURL}assets/project/proyek4.mp4`;
+const Video1 = "https://res.cloudinary.com/dkeqx7aq9/video/upload/v1763044497/proyek1_s9pwqf.mp4";
+const Video2 = "https://res.cloudinary.com/dkeqx7aq9/video/upload/v1763047317/freecompress-proyek2_i44w2z.mp4";
+const Video3 = "https://res.cloudinary.com/dkeqx7aq9/video/upload/v1763044497/proyek3_xgesdp.mp4";
+const Video4 = "https://res.cloudinary.com/dkeqx7aq9/video/upload/v1763044481/proyek4_fj8q05.mp4";
+
 
 export const listProyek = [
   {
